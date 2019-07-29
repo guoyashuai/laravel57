@@ -1,0 +1,12 @@
+.buildpath
+.settings/
+.project
+*.patch
+.idea/
+.git/
+temp/
+*.lock
+.phpintel/
+.phpstorm.meta.php
+.DS_Store
+public/devtool/
